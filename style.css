@@ -1,0 +1,27 @@
+body{
+
+    
+    background-color: grey;
+    
+    text-align: center;
+    background-image: url(https://i.pinimg.com/originals/27/cc/48/27cc48af7253e3d7c327b97ec5a24a9f.jpg);
+    
+}
+h1{
+    font-size: 50px;
+    color: white;
+    
+}
+input{
+    width: 50px;
+    height: 50px;
+    font-size: 15px;
+    border-radius: 10px;
+    
+}
+
+.buttonClass:hover{
+    background-color: yellow;
+    cursor:pointer;
+}
+
